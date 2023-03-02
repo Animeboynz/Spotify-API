@@ -30,7 +30,7 @@ For testing purposes, you can use [webhook.site](https://webhook.site/). Copy th
 ## Step 3
 Navigate to this URL with your Client_ID, Redirect_URI & Your_Required_Scope swapped for your specific case. (Don't include the curly brackets)
 ```URL
-https://accounts.spotify.com/authorize?client_id={Client_ID}&response_type=code&redirect_uri={Redirect_URI}&scope={Your_Required_Scope}'
+https://accounts.spotify.com/authorize?client_id={Client_ID}&response_type=code&redirect_uri={Redirect_URI}&scope={Your_Required_Scope}
 ```
 For this example, I will use the user-read-currently-playing scope to receive info on the currently playing song.
 
