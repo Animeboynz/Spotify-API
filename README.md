@@ -61,7 +61,7 @@ Make an HTTP POST request to
 ```
 https://accounts.spotify.com/api/token
 ```
-With the following contents (Fill in the code you received in the previous step and your redirect URI):
+With the following contents (Fill in the code you received in the Step 3 and your redirect URI):
 ```
 code=
 redirect_uri=
